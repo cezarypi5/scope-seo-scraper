@@ -1,0 +1,916 @@
+{
+  "date": "2026-04-08",
+  "scraped_at": "2026-04-08T17:34:26.546787Z",
+  "total_posts_found": 31,
+  "subreddits_scraped": [
+    "1022",
+    "Ausguns",
+    "Battlefield",
+    "Hunting",
+    "Longrangehunting",
+    "NightVision",
+    "ThermalHunting",
+    "canadaguns",
+    "gundeals",
+    "longrange",
+    "nrl22"
+  ],
+  "posts": [
+    {
+      "id": "1sffyly",
+      "title": "6GT build",
+      "body": "Tikka + Manners, optic and bipod are place holders",
+      "subreddit": "longrange",
+      "score": 49,
+      "num_comments": 4,
+      "created_utc": 1775614109,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1sffyly/",
+      "matched_keywords": [
+        "optic"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "1sffq2f",
+      "title": "Sig sauer kilo8k gen 2",
+      "body": "coming from vortex rangefinder, wind meter gen 1 vs gen 2, worth it",
+      "subreddit": "longrange",
+      "scope": 3,
+      "num_comments": 1,
+      "created_utc": 1775613477,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1sffq2f/",
+      "matched_keywords": [
+        "vortex",
+        "sig sauer"
+      ],
+      "is_question": false,
+      "intent": "navigational",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "google_001",
+      "title": "Scope help - Vortex vs Nightforce",
+      "body": "Both Nightforce and Vortex are great, Vortex have wider range below $3k",
+      "subreddit": "Ausguns",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Ausguns/comments/1qz2si6/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "nightforce",
+        "scope help"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_002",
+      "title": "Budget scopes in 2026?",
+      "body": "Athlon Neos fantastic scope for the money, Crossfire and Droptine in $130 range",
+      "subreddit": "1022",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/1022/comments/1q7nrd4/",
+      "matched_keywords": [
+        "scope",
+        "athlon",
+        "scope for"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_003",
+      "title": "Recommended scopes for ~$800",
+      "body": "Vortex Viper HD 3-15 exposed locking turrets, fantastic glass, lightweight, unbelievable performance",
+      "subreddit": "Longrangehunting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Longrangehunting/comments/1s07oh9/",
+      "matched_keywords": [
+        "scope",
+        "glass",
+        "vortex",
+        "turret"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_004",
+      "title": "Best long range scope around $1000",
+      "body": "Vortex Strike Eagle 3-18x44 on black ovis discount for $675",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1lhzm1t/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "long range scope"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_005",
+      "title": "Ultra cheap scopes",
+      "body": "Bushnell banner ii and burris full field solid budget options, Simmons",
+      "subreddit": "Hunting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Hunting/comments/1ns0jcc/",
+      "matched_keywords": [
+        "scope",
+        "burris",
+        "bushnell"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_006",
+      "title": "Rifle Scope Recommendations",
+      "body": "Hunting focused Leupold VX# line up, Vortex LHT for hunting",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1puou5p/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "leupold",
+        "scope recommendation"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_007",
+      "title": "Looking for $1500 scope recommendations",
+      "body": "Razor LHT great crossover scope, long range hunting primarily designed",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1joedo1/",
+      "matched_keywords": [
+        "scope",
+        "razor",
+        "scope recommendation"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_008",
+      "title": "Planning on buying Bergara 6.5 as first long range, optic $500-800",
+      "body": "looking for recommendations on a good optic in between $500-800, preferably 25x",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1905ocf/",
+      "matched_keywords": [
+        "optic"
+      ],
+      "is_question": false,
+      "intent": "transactional",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_009",
+      "title": "Athlon Optics Helos BTR Gen II 2-12x42mm MOA scope",
+      "body": "MOA scope with turrets and reticle in MOA, BCD reticle",
+      "subreddit": "gundeals",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/gundeals/comments/1i0tvwl/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "optics",
+        "athlon",
+        "moa",
+        "reticle",
+        "turret"
+      ],
+      "is_question": false,
+      "intent": "navigational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_010",
+      "title": "Nightforce NX6 just dropped",
+      "body": "Vortex follow suit drop 1-6 ffp EBR9 reticle, ATACR 1-8, Razor 1-10",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1qcqihm/",
+      "matched_keywords": [
+        "vortex",
+        "nightforce",
+        "razor",
+        "atacr",
+        "ffp",
+        "reticle"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_011",
+      "title": "Scope: 3-18 or 5-25 ? Also, buy once cry once?",
+      "body": "researching scopes 3-18 good fit but most gravitate to 5-25 for NRL22",
+      "subreddit": "nrl22",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/nrl22/comments/1s6fs0d/",
+      "matched_keywords": [
+        "scope",
+        "nrl22"
+      ],
+      "is_question": true,
+      "intent": "transactional",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_012",
+      "title": "Vortex RAZOR HD GEN II - Buy once cry once?",
+      "body": "Gen II bigger mag range, better optics, true integrated mechanical zero stop",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/6cux0v/",
+      "matched_keywords": [
+        "optic",
+        "optics",
+        "vortex",
+        "razor",
+        "zero"
+      ],
+      "is_question": true,
+      "intent": "transactional",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_013",
+      "title": "Need help deciding on optic",
+      "body": "floating reticle FFP, good clarity, lots of elevation adjustment, Vortex diamondback spotting scope",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/17c1y9r/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "vortex",
+        "ffp",
+        "reticle"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_014",
+      "title": "Best budget long range rifle scope",
+      "body": "Arken best budget scope on market, beats vortex budget lines, PRS rimfire",
+      "subreddit": "canadaguns",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/canadaguns/comments/1ibfv2o/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "arken"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_015",
+      "title": "Scope recommendations $2-3k budget",
+      "body": "R3 hands down winner, Burris XTR3 Pro and Zeiss S3 6-36 worth a look",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1pef33f/",
+      "matched_keywords": [
+        "scope",
+        "zeiss",
+        "burris",
+        "scope recommendation"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_016",
+      "title": "Losing my mind trying to pick a scope",
+      "body": "Trijicon 2.5-12.5 awesome scope, Mildot or MOA Dot reticle, called turrets",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1r2gotf/",
+      "matched_keywords": [
+        "scope",
+        "trijicon",
+        "moa",
+        "reticle",
+        "turret",
+        "mil"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_017",
+      "title": "Best 'long range' hunting scope for $400-600?",
+      "body": "Vortex Venom FFP scopes 3-15x and 5-25x great luck",
+      "subreddit": "Hunting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Hunting/comments/1ri3f1a/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "ffp",
+        "scope for",
+        "hunting scope"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_018",
+      "title": "Thermal optic clip-on vs standalone",
+      "body": "Clip on good compromise easy of use, use daytime scope without zero shift",
+      "subreddit": "NightVision",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/NightVision/comments/1jawwvy/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "zero",
+        "thermal optic"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_019",
+      "title": "Thoughts on new Holosun Thermal Optic",
+      "body": "night vision optic digital, before NODS thought sweet value, now realize pointless",
+      "subreddit": "NightVision",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/NightVision/comments/18fmc2o/",
+      "matched_keywords": [
+        "optic",
+        "holosun",
+        "night vision",
+        "thermal optic",
+        "nods"
+      ],
+      "is_question": true,
+      "intent": "navigational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_020",
+      "title": "Thermal scopes in Battlefield",
+      "body": "tried TS004 during night hunt, learned a lot, thermal scope 308 magnification range",
+      "subreddit": "Battlefield",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Battlefield/comments/1s6h0yj/",
+      "matched_keywords": [
+        "scope",
+        "magnification",
+        "thermal scope"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_021",
+      "title": "Thermal scope worth getting?",
+      "body": "out to 300 on C zone targets at night, 200 on thermal during day",
+      "subreddit": "NightVision",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/NightVision/comments/1ikks18/",
+      "matched_keywords": [
+        "scope",
+        "thermal scope"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_022",
+      "title": "Scope recommendations for thermal hunting",
+      "body": "thermal optics hunting, scope recommendations",
+      "subreddit": "ThermalHunting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/ThermalHunting/comments/1fo1esa/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "optics",
+        "scope recommendation",
+        "thermal optic"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_023",
+      "title": "Leupold Mark 5 vs Vortex Razor Gen 3",
+      "body": "dedicated PRS/NRL Hunter rig, Vortex $2699 and $1999 for the Leupold",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1s1m236/",
+      "matched_keywords": [
+        "vortex",
+        "leupold",
+        "razor",
+        "mark 5"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_024",
+      "title": "$2k budget for NRL22 and PRS rimfire. Should I...",
+      "body": "precision rimfire competition, $2000 budget rifle + optic, NRL22 and PRS",
+      "subreddit": "longrange",
+      "score": 21,
+      "num_comments": 43,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1fyxk6r/",
+      "matched_keywords": [
+        "optic",
+        "nrl22",
+        "precision rimfire"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_025",
+      "title": "Currently Great Optic Sales!",
+      "body": "Zeiss LRP S5 3.6-18x MRAD $2000, Steiner T6Xi 5-30x56mm MSR2 $1600",
+      "subreddit": "longrange",
+      "score": 68,
+      "num_comments": 91,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1pw6z24/",
+      "matched_keywords": [
+        "optic",
+        "zeiss",
+        "steiner",
+        "steiner",
+        "mrad"
+      ],
+      "is_question": false,
+      "intent": "transactional",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_026",
+      "title": "Budget optic for 600yds and in",
+      "body": "Ruger American 308, basic 3x9 scope, looking for something nicer",
+      "subreddit": "longrange",
+      "score": 134,
+      "num_comments": 51,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1ruu3de/",
+      "matched_keywords": [
+        "scope",
+        "optic"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_027",
+      "title": "New Glass For The Long Range Gasser",
+      "body": "upgraded dmr3 to razor 4-24 for 5.56 gas gun, eyebox massive, razor optics",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1sbobrw/",
+      "matched_keywords": [
+        "optic",
+        "optics",
+        "glass",
+        "razor"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_028",
+      "title": "Vortex Razor HD Gen II 3-18x50mm rifle scope $1049 MOA reticle",
+      "body": "Vortex Razor HD Gen II 3-18x50mm Rifle Scope 34mm Tube MOA Reticle $1049",
+      "subreddit": "gundeals",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/gundeals/comments/1ml915z/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "razor",
+        "moa",
+        "reticle"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_029",
+      "title": "Scope recommendations $500-800 for Bergara 6.5",
+      "body": "good optic $500-800 preferably 25x for first long range",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1905ocf/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "scope recommendation"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    }
+  ],
+  "keyword_counts": {
+    "scope": 21,
+    "optic": 13,
+    "vortex": 12,
+    "razor": 6,
+    "scope recommendation": 5,
+    "reticle": 5,
+    "optics": 4,
+    "turret": 3,
+    "moa": 3,
+    "ffp": 3,
+    "thermal optic": 3,
+    "nightforce": 2,
+    "athlon": 2,
+    "scope for": 2,
+    "glass": 2,
+    "burris": 2,
+    "leupold": 2,
+    "nrl22": 2,
+    "zero": 2,
+    "zeiss": 2,
+    "thermal scope": 2,
+    "steiner": 2,
+    "sig sauer": 1,
+    "scope help": 1,
+    "long range scope": 1,
+    "bushnell": 1,
+    "atacr": 1,
+    "arken": 1,
+    "trijicon": 1,
+    "mil": 1,
+    "hunting scope": 1,
+    "holosun": 1,
+    "night vision": 1,
+    "nods": 1,
+    "magnification": 1,
+    "mark 5": 1,
+    "precision rimfire": 1,
+    "mrad": 1
+  },
+  "top_keywords": [
+    [
+      "scope",
+      21
+    ],
+    [
+      "optic",
+      13
+    ],
+    [
+      "vortex",
+      12
+    ],
+    [
+      "razor",
+      6
+    ],
+    [
+      "scope recommendation",
+      5
+    ],
+    [
+      "reticle",
+      5
+    ],
+    [
+      "optics",
+      4
+    ],
+    [
+      "turret",
+      3
+    ],
+    [
+      "moa",
+      3
+    ],
+    [
+      "ffp",
+      3
+    ],
+    [
+      "thermal optic",
+      3
+    ],
+    [
+      "nightforce",
+      2
+    ],
+    [
+      "athlon",
+      2
+    ],
+    [
+      "scope for",
+      2
+    ],
+    [
+      "glass",
+      2
+    ],
+    [
+      "burris",
+      2
+    ],
+    [
+      "leupold",
+      2
+    ],
+    [
+      "nrl22",
+      2
+    ],
+    [
+      "zero",
+      2
+    ],
+    [
+      "zeiss",
+      2
+    ]
+  ],
+  "trending_questions": [
+    {
+      "id": "google_002",
+      "title": "Budget scopes in 2026?",
+      "body": "Athlon Neos fantastic scope for the money, Crossfire and Droptine in $130 range",
+      "subreddit": "1022",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/1022/comments/1q7nrd4/",
+      "matched_keywords": [
+        "scope",
+        "athlon",
+        "scope for"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_003",
+      "title": "Recommended scopes for ~$800",
+      "body": "Vortex Viper HD 3-15 exposed locking turrets, fantastic glass, lightweight, unbelievable performance",
+      "subreddit": "Longrangehunting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Longrangehunting/comments/1s07oh9/",
+      "matched_keywords": [
+        "scope",
+        "glass",
+        "vortex",
+        "turret"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_004",
+      "title": "Best long range scope around $1000",
+      "body": "Vortex Strike Eagle 3-18x44 on black ovis discount for $675",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1lhzm1t/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "long range scope"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_007",
+      "title": "Looking for $1500 scope recommendations",
+      "body": "Razor LHT great crossover scope, long range hunting primarily designed",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1joedo1/",
+      "matched_keywords": [
+        "scope",
+        "razor",
+        "scope recommendation"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_011",
+      "title": "Scope: 3-18 or 5-25 ? Also, buy once cry once?",
+      "body": "researching scopes 3-18 good fit but most gravitate to 5-25 for NRL22",
+      "subreddit": "nrl22",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/nrl22/comments/1s6fs0d/",
+      "matched_keywords": [
+        "scope",
+        "nrl22"
+      ],
+      "is_question": true,
+      "intent": "transactional",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_012",
+      "title": "Vortex RAZOR HD GEN II - Buy once cry once?",
+      "body": "Gen II bigger mag range, better optics, true integrated mechanical zero stop",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/6cux0v/",
+      "matched_keywords": [
+        "optic",
+        "optics",
+        "vortex",
+        "razor",
+        "zero"
+      ],
+      "is_question": true,
+      "intent": "transactional",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_014",
+      "title": "Best budget long range rifle scope",
+      "body": "Arken best budget scope on market, beats vortex budget lines, PRS rimfire",
+      "subreddit": "canadaguns",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/canadaguns/comments/1ibfv2o/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "arken"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_017",
+      "title": "Best 'long range' hunting scope for $400-600?",
+      "body": "Vortex Venom FFP scopes 3-15x and 5-25x great luck",
+      "subreddit": "Hunting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Hunting/comments/1ri3f1a/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "ffp",
+        "scope for",
+        "hunting scope"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_019",
+      "title": "Thoughts on new Holosun Thermal Optic",
+      "body": "night vision optic digital, before NODS thought sweet value, now realize pointless",
+      "subreddit": "NightVision",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/NightVision/comments/18fmc2o/",
+      "matched_keywords": [
+        "optic",
+        "holosun",
+        "night vision",
+        "thermal optic",
+        "nods"
+      ],
+      "is_question": true,
+      "intent": "navigational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "google_021",
+      "title": "Thermal scope worth getting?",
+      "body": "out to 300 on C zone targets at night, 200 on thermal during day",
+      "subreddit": "NightVision",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/NightVision/comments/1ikks18/",
+      "matched_keywords": [
+        "scope",
+        "thermal scope"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    }
+  ],
+  "intent_breakdown": {
+    "informational": 6,
+    "navigational": 3,
+    "commercial": 18,
+    "transactional": 4
+  }
+}
