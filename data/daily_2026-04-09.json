@@ -1,0 +1,929 @@
+{
+  "date": "2026-04-09",
+  "scraped_at": "2026-04-10T09:45:30Z",
+  "total_posts_found": 32,
+  "subreddits_scraped": [
+    "1022",
+    "Ausguns",
+    "CompetitionShooting",
+    "Hunting",
+    "longrange",
+    "nrl22"
+  ],
+  "posts": [
+    {
+      "id": "1shf5zc",
+      "title": "A2 Iron sights out to 500+ yards? Feasible or not worth the trouble with modern optics?",
+      "body": "magnified optics cheaper than mil spec irons",
+      "subreddit": "longrange",
+      "score": 1,
+      "num_comments": 10,
+      "created_utc": 1775804497,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1shf5zc/",
+      "matched_keywords": [
+        "optic",
+        "optics",
+        "mil"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "1shcmnq",
+      "title": "400 yards with 22lr is pretty damn fun",
+      "body": "Vortex Venom 5-25x56 MDT 30 MOA mount",
+      "subreddit": "longrange",
+      "score": 33,
+      "num_comments": 5,
+      "created_utc": 1775795965,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1shcmnq/",
+      "matched_keywords": [
+        "vortex",
+        "moa"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "1shamse",
+      "title": "Lipstick on a pig - PRS build Leupold MK 5 HD 7-35x",
+      "body": "Leupold MK 5 HD 7-35x optic 30 moa rail scope rings condition one mount",
+      "subreddit": "longrange",
+      "score": 60,
+      "num_comments": 40,
+      "created_utc": 1775790024,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1shamse/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "leupold",
+        "moa"
+      ],
+      "is_question": false,
+      "intent": "navigational",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "1sh93ba",
+      "title": "Bought this Sharps 1874 replica - old world equivalent of the Razor Gen 3",
+      "body": "Razor Gen 3 equivalent sight for Sharps 1874",
+      "subreddit": "longrange",
+      "score": 15,
+      "num_comments": 14,
+      "created_utc": 1775785823,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1sh93ba/",
+      "matched_keywords": [
+        "razor"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "1sh10q1",
+      "title": "PSA Super SASS - Athlon Cronus 4.5-29 optic",
+      "body": "Optic is a Athlon Cronus 4.5-29 FGMM ELD-M",
+      "subreddit": "longrange",
+      "score": 83,
+      "num_comments": 28,
+      "created_utc": 1775765835,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1sh10q1/",
+      "matched_keywords": [
+        "optic",
+        "athlon"
+      ],
+      "is_question": false,
+      "intent": "navigational",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "1sgzvfy",
+      "title": "Wanting a build to learn/study LR - $1000-1200 budget optic",
+      "body": "budget 1000-1200 scope optic not competing long range beginner",
+      "subreddit": "longrange",
+      "score": 6,
+      "num_comments": 4,
+      "created_utc": 1775763369,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1sgzvfy/",
+      "matched_keywords": [
+        "scope",
+        "optic"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "1sgz2f0",
+      "title": "Not bad for $155 - Athlon Rangecraft",
+      "body": "Athlon Rangecraft chronograph 6.5cm Tikka T3x Super Varmint scope optic",
+      "subreddit": "longrange",
+      "score": 164,
+      "num_comments": 60,
+      "created_utc": 1775761635,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1sgz2f0/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "athlon"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "g001",
+      "title": "Programmable rifle Scopes",
+      "body": "Steiner M7Xi holds multiple ballistic profiles pricetag will hurt your feelings",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1q7jsrc/",
+      "matched_keywords": [
+        "scope",
+        "steiner"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g002",
+      "title": "Budget optic for 600yds and in",
+      "body": "Vortex Venom PST Gen II best bang for buck Vortex Siren optic",
+      "subreddit": "longrange",
+      "score": 134,
+      "num_comments": 51,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1ruu3de/",
+      "matched_keywords": [
+        "optic",
+        "vortex"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g003",
+      "title": "Help deciding which scope to buy (first bolt gun)",
+      "body": "Athlon ares gen2 new Japanese version 2026 under $1k scope",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1qi62fb/",
+      "matched_keywords": [
+        "scope",
+        "athlon",
+        "which scope"
+      ],
+      "is_question": true,
+      "intent": "transactional",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g004",
+      "title": "Scope Choice Paralysis",
+      "body": "Bushnell MPED Athlon Cronus Gen 2 budget scope recommendation",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1pkv1no/",
+      "matched_keywords": [
+        "scope",
+           "bushnell",
+        "athlon",
+        "scope recommendation"
+      ],
+      "is_question": false,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g005",
+      "title": "Scope Advice - PRS / NRL Hunter",
+      "body": "Razor G3 best optically ATACR tunnelling at low end PRS scope NRL Hunter",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1pncybe/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "razor",
+        "atacr",
+        "prs scope"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g006",
+      "title": "Where Are All The New Optics???",
+      "body": "wait for 2026 SHOT optics Swarovski patent ocular lens new optic scope",
+      "subreddit": "longrange",
+      "scope": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1qnf7py/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "optics",
+        "swarovski"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g007",
+      "title": "Budget scopes in 2026?",
+      "body": "Athlon Neos fantastic scope for money Crossfire Droptine $130 range",
+      "subreddit": "1022",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/1022/comments/1q7nrd4/",
+      "matched_keywords": [
+        "scope",
+        "athlon",
+        "scope for"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g008",
+      "title": "Meopta in 2026?",
+      "body": "Athlon Ares ETR Cronus BTR popular price range scope meopta",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1rrsh2y/",
+      "matched_keywords": [
+        "scope",
+        "meopta",
+        "athlon"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g009",
+      "title": "LPVO advice - Vortex venom 1-6 magnification",
+      "body": "Vortex venom 1-6 anything within 300 yards 500+ 10x minimum optic",
+      "subreddit": "longrange",
+      "scope": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1ldy700/",
+      "matched_keywords": [
+        "optic",
+        "vortex",
+        "magnification"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g010",
+      "title": "Optic recommendations? Razor II 3-18",
+      "body": "Razor II 3-18 twice budget Optika 6 reticle optic",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1que3lv/",
+      "matched_keywords": [
+        "optic",
+        "razor",
+        "reticle"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g011",
+      "title": "Scope help - Vortex vs Nightforce FFP vs SFP",
+      "body": "FFP not SFP reticle markings elevation windage consistent SFP being cheap 2026 scope vortex nightforce",
+      "subreddit": "Ausguns",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Ausguns/comments/1qz2si6/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "nightforce",
+        "ffp",
+        "sfp",
+        "reticle",
+        "scope help"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g012",
+      "title": "LPVO in 2026? CompetitionShooting",
+      "body": "Athlon Ares ETR 1-10 slept on clarity optic scope",
+      "subreddit": "CompetitionShooting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/CompetitionShooting/comments/1rhwdd5/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "athlon"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g013",
+      "title": ".308 Scope recommendation - Vortex Viper PST Gen 2",
+      "body": "Vortex Viper PST Gen 2 go-to recommendation scope 308",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1d27ytv/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "scope recommendation"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g014",
+      "title": "Trijicon vs Leupold mk5 vs Nightforce NX8",
+      "body": "Trijicon Nightforce best reliability Leupold NX8 scope",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1km18vt/",
+      "matched_keywords": [
+        "scope",
+        "nightforce",
+        "leupold",
+        "trijicon"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g015",
+      "title": "Optics - Leupold vs Vortex hunting",
+      "body": "Leupold vortex good warranties Leupold lighter optic hunting",
+      "subreddit": "Hunting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Hunting/comments/1ho16vl/",
+      "matched_keywords": [
+        "optic",
+        "optics",
+        "vortex",
+        "leupold"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g016",
+      "title": "Best hunting scope - NightForce NX8",
+      "body": "NightForce NX8 2.5x-20x50mm hunting scope best",
+      "subreddit": "Hunting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Hunting/comments/1gyrovc/",
+      "matched_keywords": [
+        "scope",
+        "nightforce",
+        "hunting scope"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g017",
+      "title": "Nightforce Scopes review - Vortex Razor Gen III ZCO",
+      "body": "Vortex Razor Gen III Zero Compromise ZCO nightforce scope review",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1q1ogih/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "nightforce",
+        "zco",
+        "razor",
+        "zero",
+        "scope review"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g018",
+      "title": "Leupold VX-5HD vs Vortex Razor LHT comparison",
+      "body": "reticle turrets LHT better eye-box leupold LHT wins vortex razor leupold",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/179cg1d/",
+      "matched_keywords": [
+        "vortex",
+        "leupold",
+        "razor",
+        "reticle",
+        "turret"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g019",
+      "title": "Base class scopes for NRL22 first timers",
+      "body": "Arken SH4 Gen2 EP5 Bushnell Match Pro popular skip Vortex yellow glass mushy turrets scope nrl22",
+      "subreddit": "nrl22",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/nrl22/comments/148nt73/",
+      "matched_keywords": [
+        "scope",
+        "glass",
+        "vortex",
+        "bushnell",
+        "arken",
+        "turret",
+        "nrl22"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g020",
+      "title": "Need scope recommendations for nrl22 build",
+      "body": "Athlon Midas TAC Bushnell MPED Vortex PST Gen II under $800 budget scope nrl22 recommendation",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1g3wlrt/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "bushnell",
+        "athlon",
+        "scope recommendation",
+        "nrl22"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g021",
+      "title": "Best NRL PRS 22 rifle scope under $1500",
+      "body": "Vortex Strike Eagle 5-25 FFP good reticle parallax scope nrl22 prs",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/11aj2qs/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "ffp",
+        "reticle",
+        "parallax",
+        "scope under",
+        "nrl22"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g022",
+      "title": "Arken vs Vortex 24x NRL22 scope comparison",
+      "body": "arken vortex 24x power scope 50mm objective nrl22",
+      "subreddit": "nrl22",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/nrl22/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "arken",
+        "nrl22"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g023",
+      "title": "Budget Scope Suggestions for NRL22",
+      "body": "Arken Optics best for money EPL-4 6-24x50 NRL22 scope budget",
+      "subreddit": "nrl22",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/nrl22/comments/1oe4qmp/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "optics",
+        "arken",
+        "nrl22"
+      ],
+      "is_question": false,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g024",
+      "title": "Looking for scope recommendation for NRL22 and hunting",
+      "body": "3-18 hunting 4.5-30 NRL22 scope recommendation",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/171lkg7/",
+      "matched_keywords": [
+        "scope",
+        "scope recommendation",
+        "nrl22"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g025",
+      "title": "NRL22 Base class scope - Arken $520",
+      "body": "Arken best deal $520 scope rings levels NRL22 base class unknown company",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/qv12lt/",
+      "matched_keywords": [
+        "scope",
+        "arken",
+        "nrl22"
+      ],
+      "is_question": false,
+      "intent": "navigational",
+      "source": "google_search_snippet"
+    }
+  ],
+  "keyword_counts": {
+    "scope": 23,
+    "optic": 13,
+    "vortex": 12,
+    "athlon": 8,
+    "nrl22": 7,
+    "razor": 5,
+    "optics": 4,
+    "leupold": 4,
+    "scope recommendation": 4,
+    "reticle": 4,
+    "nightforce": 4,
+    "arken": 4,
+    "bushnell": 3,
+    "moa": 2,
+    "ffp": 2,
+    "turret": 2,
+    "mil": 1,
+    "steiner": 1,
+    "which scope": 1,
+    "atacr": 1,
+    "prs scope": 1,
+    "swarovski": 1,
+    "scope for": 1,
+    "meopta": 1,
+    "magnification": 1,
+    "sfp": 1,
+    "scope help": 1,
+    "trijicon": 1,
+    "hunting scope": 1,
+    "zco": 1,
+    "zero": 1,
+    "scope review": 1,
+    "glass": 1,
+    "parallax": 1,
+    "scope under": 1
+  },
+  "top_keywords": [
+    [
+      "scope",
+      23
+    ],
+    [
+      "optic",
+      13
+    ],
+    [
+      "vortex",
+      12
+    ],
+    [
+      "athlon",
+      8
+    ],
+    [
+      "nrl22",
+      7
+    ],
+    [
+      "razor",
+      5
+    ],
+    [
+      "optics",
+      4
+    ],
+    [
+      "leupold",
+      4
+    ],
+    [
+      "scope recommendation",
+      4
+    ],
+    [
+      "reticle",
+      4
+    ],
+    [
+      "nightforce",
+      4
+    ],
+    [
+      "arken",
+      4
+    ],
+    [
+      "bushnell",
+      3
+    ],
+    [
+      "moa",
+      2
+    ],
+    [
+      "ffp",
+      2
+    ],
+    [
+      "turret",
+      2
+    ],
+    [
+      "mil",
+      1
+    ],
+    [
+      "steiner",
+      1
+    ],
+    [
+      "which scope",
+      1
+    ],
+    [
+      "atacr",
+      1
+    ]
+  ],
+  "trending_questions": [
+    {
+      "id": "1shf5zc",
+      "title": "A2 Iron sights out to 500+ yards? Feasible or not worth the trouble with modern optics?",
+      "body": "magnified optics cheaper than mil spec irons",
+      "subreddit": "longrange",
+      "score": 1,
+      "num_comments": 10,
+      "created_utc": 1775804497,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1shf5zc/",
+      "matched_keywords": [
+        "optic",
+        "optics",
+        "mil"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "apify_subreddit_scraper"
+    },
+    {
+      "id": "g003",
+      "title": "Help deciding which scope to buy (first bolt gun)",
+      "body": "Athlon ares gen2 new Japanese version 2026 under $1k scope",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1qi62fb/",
+      "matched_keywords": [
+        "scope",
+        "athlon",
+        "which scope"
+      ],
+      "is_question": true,
+      "intent": "transactional",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g005",
+      "title": "Scope Advice - PRS / NRL Hunter",
+      "body": "Razor G3 best optically ATACR tunnelling at low end PRS scope NRL Hunter",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1pncybe/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "razor",
+        "atacr",
+        "prs scope"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g006",
+      "title": "Where Are All The New Optics???",
+      "body": "wait for 2026 SHOT optics Swarovski patent ocular lens new optic scope",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1qnf7py/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "optics",
+        "swarovski"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g007",
+      "title": "Budget scopes in 2026?",
+      "body": "Athlon Neos fantastic scope for money Crossfire Droptine $130 range",
+      "subreddit": "1022",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/1022/comments/1q7nrd4/",
+      "matched_keywords": [
+        "scope",
+        "athlon",
+        "scope for"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g008",
+      "title": "Meopta in 2026?",
+      "body": "Athlon Ares ETR Cronus BTR popular price range scope meopta",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1rrsh2y/",
+      "matched_keywords": [
+        "scope",
+        "meopta",
+        "athlon"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g009",
+      "title": "LPVO advice - Vortex venom 1-6 magnification",
+      "body": "Vortex venom 1-6 anything within 300 yards 500+ 10x minimum optic",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1ldy700/",
+      "matched_keywords": [
+        "optic",
+        "vortex",
+        "magnification"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g010",
+      "title": "Optic recommendations? Razor II 3-18",
+      "body": "Razor II 3-18 twice budget Optika 6 reticle optic",
+      "subreddit": "longrange",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/longrange/comments/1que3lv/",
+      "matched_keywords": [
+        "optic",
+        "razor",
+        "reticle"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g011",
+      "title": "Scope help - Vortex vs Nightforce FFP vs SFP",
+      "body": "FFP not SFP reticle markings elevation windage consistent SFP being cheap 2026 scope vortex nightforce",
+      "subreddit": "Ausguns",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/Ausguns/comments/1qz2si6/",
+      "matched_keywords": [
+        "scope",
+        "vortex",
+        "nightforce",
+        "ffp",
+        "sfp",
+        "reticle",
+        "scope help"
+      ],
+      "is_question": true,
+      "intent": "commercial",
+      "source": "google_search_snippet"
+    },
+    {
+      "id": "g012",
+      "title": "LPVO in 2026? CompetitionShooting",
+      "body": "Athlon Ares ETR 1-10 slept on clarity optic scope",
+      "subreddit": "CompetitionShooting",
+      "score": 0,
+      "num_comments": 0,
+      "created_utc": null,
+      "permalink": "https://www.reddit.com/r/CompetitionShooting/comments/1rhwdd5/",
+      "matched_keywords": [
+        "scope",
+        "optic",
+        "athlon"
+      ],
+      "is_question": true,
+      "intent": "informational",
+      "source": "google_search_snippet"
+    }
+  ],
+  "intent_breakdown": {
+    "informational": 9,
+    "navigational": 3,
+    "commercial": 19,
+    "transactional": 1
+  }
+}
